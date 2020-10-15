@@ -1,1 +1,2 @@
-# Trash-Can-Part-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
